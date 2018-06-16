@@ -73,15 +73,13 @@ input[type="text"]
 }
 
 input[type=submit]{
-   	display: flex;
     font-size:16px;
     font-weight: 700;
     height: 35px;
     width: 320px;
-    justify-content: center;
     background: #F223C6;
     color: white;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 
 }
 
@@ -127,7 +125,7 @@ input[type=submit]{
 	flex-grow: .7;
 	text-align: center;
 	padding:34px;
-	 box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
 
 }
 
