@@ -72,8 +72,13 @@ input[type="text"]
 	padding-top: auto;
 }
 
-input[type=submit]{
-    font-size:16px;
+textarea,
+input.text,
+input[type="submit"],
+.input-checkbox {
+-webkit-appearance: none;
+border-radius: 0;
+font-size:16px;
     font-weight: 700;
     height: 35px;
     width: 320px;
@@ -83,8 +88,8 @@ input[type=submit]{
     -webkit-appearance: none;
   	border-radius: 0;
   	border:none;
-
 }
+
 
 							/* Main Menu Page */
 /*////////////////////////////////////////////////////////////////////////////////*/
