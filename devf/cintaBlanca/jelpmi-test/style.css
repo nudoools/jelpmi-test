@@ -72,8 +72,7 @@ input[type="text"]
 	padding-top: auto;
 }
 
-input[type=submit],
-.input-checkbox{
+input[type=submit]{
     font-size:16px;
     font-weight: 700;
     height: 35px;
