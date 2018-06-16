@@ -72,7 +72,8 @@ input[type="text"]
 	padding-top: auto;
 }
 
-input[type=submit]{
+input[type=submit],
+.input-checkbox{
     font-size:16px;
     font-weight: 700;
     height: 35px;
@@ -80,8 +81,8 @@ input[type=submit]{
     background: #F223C6;
     color: white;
     box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
-     -webkit-appearance: none;
-  border-radius: 0;
+    -webkit-appearance: none;
+  	border-radius: 0;
 
 }
 
